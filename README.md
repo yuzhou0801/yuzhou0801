@@ -78,23 +78,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuzhou0801&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuzhou0801&theme=github-dark" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuzhou0801&theme=github_dark" />
-</p>
-
----
-
-## 🏆 Academic Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuzhou0801&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
 ---
