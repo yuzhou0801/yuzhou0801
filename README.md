@@ -2,15 +2,11 @@
 <h3 align="center">MS Student @ Imperial College London</h3>
 
 <p align="center">
-  <em>Machine Learning · Data Science · Topic Modeling</em>
+  <em>Machine Learning · Data Science · Artificial Intelligence</em>
 </p>
 
 <p align="center">
   <strong>Prospective PhD Applicant (Fall 2026 / Fall 2027)</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuzhou0801&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
