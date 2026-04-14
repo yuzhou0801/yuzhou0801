@@ -1,25 +1,45 @@
 <h1 align="center">Yu Zhou</h1>
-<h3 align="center">MS Student @ Imperial College London</h3>
+<h3 align="center">MSc Student @ Imperial College London</h3>
 
 <p align="center">
-  <em>Machine Learning · Data Science · Artificial Intelligence</em>
+  <em>Machine Learning · AI Agents · NLP · Data Science</em>
 </p>
 
 <p align="center">
-  <strong>Prospective PhD Applicant (Fall 2026 / Fall 2027)</strong>
+  <a href="https://github.com/yuzhou0801?tab=followers">
+    <img src="https://img.shields.io/github/followers/yuzhou0801?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/yuzhou0801">
+    <img src="https://img.shields.io/github/stars/yuzhou0801?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=yuzhou0801&style=for-the-badge" />
 </p>
+
+---
+
+## 👋 About Me
+
+I am a Master's student at **Imperial College London**, with academic backgrounds in **Computer Science**, **Robotics**, and **Data Science**.  
+My interests lie at the intersection of **Machine Learning**, **Natural Language Processing**, **AI Agents**, and **Intelligent Interactive Systems**.
+
+I am particularly interested in:
+- Large Language Models (LLMs)
+- AI Agents & Multi-Agent Systems
+- Human-AI Interaction
+- Topic Modeling & Text Mining
+- Data-Driven Intelligent Systems
 
 ---
 
 ## 🎓 Education
 
-- **MSc Student**, Imperial College London  
+- **MSc in Environment Data Science & Machine Learning**, Imperial College London  
   *2025 – 2026*
 
-- **BSc Student**, Ocean University of China  
+- **BSc in Computer Science**, Ocean University of China  
   *2021 – 2025*
 
-- **BSc Student**, Heriot-Watt University  
+- **BSc in Robotics**, Heriot-Watt University  
   *2021 – 2025*
 
 ---
@@ -27,14 +47,16 @@
 ## 🔬 Research Interests
 
 - Machine Learning  
-- Data Science
-- Artificial Intelligence
-- Topic Models
-- Text Mining & Natural Language Processing  
+- Natural Language Processing  
+- Artificial Intelligence  
+- AI Agents & Multi-Agent Systems  
+- Topic Models  
+- Text Mining  
+- Human-AI Interaction  
 
 ---
 
-## 🧠 Skills
+## 🧰 Technical Skills
 
 ### Programming Languages
 <p>
@@ -43,11 +65,43 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-### Machine Learning / Data
+### Machine Learning / AI
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-AI%20Agents-6A5ACD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Topic%20Modeling-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Text%20Mining-2E8B57?style=for-the-badge"/>
+</p>
+
+### Tools / Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Linux-Workbench-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LaTeX-Academic%20Writing-008080?style=for-the-badge&logo=latex"/>
+</p>
+
+---
+
+## 🚀 Selected Projects
+
+### [0xClaw](https://github.com/0xclaw-ai/0xClaw)
+An automated hackathon agent system for end-to-end project generation, covering idea generation, planning, coding, testing, documentation, and review.
+
+### More Projects
+I use this GitHub to share research prototypes, engineering experiments, and AI-related tools in ML, NLP, and intelligent systems.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yuzhou0801&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhou0801&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuzhou0801&theme=github_dark" />
 </p>
 
 ---
@@ -71,18 +125,12 @@
 
 ---
 
-## 📊 GitHub Activity
+## 💬 Contact
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuzhou0801&theme=github_dark" />
-</p>
-
----
-
-## 💬 Contact & Collaboration
-
-- I am interested in research collaboration in ML, NLP, and AI
-- Feel free to reach out via email or GitHub issues  
+I am open to:
+- Research collaboration
+- Academic discussion in ML / NLP / AI
+- Interesting open-source and applied AI projects
 
 <p align="center">
   <a href="https://github.com/yuzhou0801/yuzhou0801/issues">
